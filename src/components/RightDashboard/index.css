@@ -1,0 +1,12 @@
+.right-dash-board{
+    /* border: 2px solid green; */
+    width: 25%;
+    position: absolute;
+    top: 10%;
+    right: 0px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}

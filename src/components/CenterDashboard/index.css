@@ -1,0 +1,17 @@
+.center-dash-board{
+    /* border: 2px solid green; */
+    min-height: 90vh;
+    width: 70%;
+    position: absolute;
+    left: 5%;
+    top: 10vh;
+}
+
+.finance-and-expenses-container{
+    height: 300px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}

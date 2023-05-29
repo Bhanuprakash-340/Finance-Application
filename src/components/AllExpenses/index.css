@@ -1,0 +1,10 @@
+.all-expenses-container{
+    height: 250px;
+    width: 40%;
+    border: 2px solid gray;
+    margin: 5px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
